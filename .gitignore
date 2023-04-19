@@ -1,21 +1,4 @@
-**/.vs/
-**/.idea/
-**/__pycache__/
-**/venv/
-**/.venv/
-**/lection/
-**/example/
-/Add_courses/
-**/.vscode/
-**/bin/
-**/obj/
-*.csproj
-*.iml
-*.txt
-*.csv
-**/out/
-**/ws/
-**/ex/
+**/scenes/
 
 ### IntelliJ IDEA ###
 out/
