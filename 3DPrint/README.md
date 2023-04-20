@@ -1,9 +1,7 @@
-### GreenHouse - проект автоматизации теплицы.
+### Модели для 3D печати.
 
 #### Вершины
 
-Модели для 3D печати.
-
-    5p_star_bottom.stl  -   6  шт.
+5p_star_bottom.stl  -   6  шт.
     
-    6p_star_bottom.stl  -   20 шт.
+6p_star_bottom.stl  -   20 шт.
