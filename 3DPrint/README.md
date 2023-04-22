@@ -2,6 +2,6 @@
 
 #### Вершины
 
-5p_star_bottom.stl  -   6  шт.
+5p_star.stl  -   6  шт.
     
-6p_star_bottom.stl  -   20 шт.
+6p_star.stl  -   20 шт.
